@@ -1,0 +1,15 @@
+nav{background-color: #000;}
+#top-nav ul{margin-left: 150px;margin-top: 50px;}
+#top-nav li{font-size: 23px;}
+.sticky {position: fixed;width: 100%;}
+.jumbocustom{margin-top:130px;}
+
+#top-nav li a:hover{color: #b1dbdb;}
+.jumbotxt{font-size: 21px;}
+.card-img-top{width: 348px;height: 200px;align-self: center;}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 3rem;
+    padding-left: .5rem;
+    color: #fff;
+}
+
